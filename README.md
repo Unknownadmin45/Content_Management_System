@@ -41,9 +41,9 @@ The *Content Management System (CMS)* is a web-based platform designed to simpli
 - Export content as PDF or JSON.  
 
 #### *Credits*
-- *Developers*:  
+- *Developers*:
+  - *Harsh Ramdhani Mishra*  
   - *Ketan Rajendra Mande*  
-  - *Harsh Ramdhani Mishra*
 - *Frameworks and Libraries:* Bootstrap, SweetAlert2, FontAwesome
 
 #### *License*
