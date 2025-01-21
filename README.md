@@ -19,7 +19,7 @@ The *Content Management System (CMS)* is a web-based platform designed to simpli
 #### *Installation Instructions*
 1. Clone the repository:
    bash
-   git clone https://github.com/Mande-Ketan-11/PHP--04_Content_Management_System
+   git clone https://github.com/Unknownadmin45/Content_Management_System
    
 2. Install and start XAMPP (Apache and MySQL).  
 3. Import the provided SQL file into *phpMyAdmin* to set up the database.  
